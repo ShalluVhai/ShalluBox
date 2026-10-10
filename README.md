@@ -1,20 +1,28 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+## ✨ Features
 
-# Run and deploy your AI Studio app
+- 🔓 **No Login Required** — Share files without creating an account.
+- 📤 **Easy Uploads** — Upload supported documents, PDFs, text files, and images.
+- 🔐 **4-Digit PIN Access** — Access files using the PIN set by the uploader.
+- 📥 **Quick Downloads** — Access and download files from other devices.
+- ☁️ **Cloud Storage** — Access uploaded files across devices.
+- ⏰ **24-Hour Auto-Expiration** — Files are automatically deleted after 24 hours.
+- 🗑️ **Manual File Deletion** — Users can delete their uploaded files before expiration.
+- 🌗 **Dark & Light Mode** — Switch between themes.
+- 📱 **Responsive Design** — Works across desktop and mobile devices.
+- 🪟 **Glassmorphism UI** — A clean, modern, minimalist interface.
 
-This contains everything you need to run your app locally.
+## 🎯 Project Goal
 
-View your app in AI Studio: https://ai.studio/apps/27a34125-5bfc-49ff-a993-4a3519e50f7c
+ShalluBox was created to make file and text transfer between computers and mobile devices simple, especially in university labs where signing into personal accounts may not be convenient.
 
-## Run Locally
+Upload a file, set a 4-digit PIN, and access it from another device. No account, no installation, and no unnecessary complications.
 
-**Prerequisites:**  Node.js
+## 🌐 Live Website
 
+https://shallubox.netlify.app/
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## 👨‍💻 Creator
+
+**Md Shahil Mahmud (shallu_vhai)**
+
+*Simple. Fast. Temporary.*
